@@ -1,0 +1,27 @@
+окт. 14, 2023 8:15:07 AM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: DESKTOPALX
+окт. 14, 2023 8:15:07 AM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3148.v532a_7e715ee3
+окт. 14, 2023 8:15:07 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using D:\FILES\University\3 course\1 term\TPO\Jenkins\slave\remoting as a remoting work directory
+окт. 14, 2023 8:15:07 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://192.168.121.1:8081/]
+окт. 14, 2023 8:15:07 AM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+окт. 14, 2023 8:15:07 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: 192.168.121.1
+  Agent port:    49671
+  Identity:      9c:c5:d2:21:fd:7f:1c:25:85:c8:b7:ab:32:11:95:9e
+окт. 14, 2023 8:15:07 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+окт. 14, 2023 8:15:07 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to 192.168.121.1:49671
+окт. 14, 2023 8:15:07 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+окт. 14, 2023 8:15:12 AM org.jenkinsci.remoting.protocol.impl.BIONetworkLayer$Reader run
+INFO: Waiting for ProtocolStack to start.
+окт. 14, 2023 8:15:17 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: 9c:c5:d2:21:fd:7f:1c:25:85:c8:b7:ab:32:11:95:9e
+окт. 14, 2023 8:15:17 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
