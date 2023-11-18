@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autotests", "Autotests\Autotests.csproj", "{B35B290D-2DD7-4D9D-8638-26EF3990B8B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleCloudTests", "GoogleCloudTests\GoogleCloudTests.csproj", "{41E38861-C6F5-4768-8392-23DA80F88FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B35B290D-2DD7-4D9D-8638-26EF3990B8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35B290D-2DD7-4D9D-8638-26EF3990B8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35B290D-2DD7-4D9D-8638-26EF3990B8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35B290D-2DD7-4D9D-8638-26EF3990B8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E38861-C6F5-4768-8392-23DA80F88FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E38861-C6F5-4768-8392-23DA80F88FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E38861-C6F5-4768-8392-23DA80F88FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E38861-C6F5-4768-8392-23DA80F88FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC45A8E3-2DBC-4FE6-A052-90312791D78F}
+	EndGlobalSection
+EndGlobal
