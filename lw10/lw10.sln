@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleCloudTests", "GoogleCloudTests\GoogleCloudTests.csproj", "{41E38861-C6F5-4768-8392-23DA80F88FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubTests", "GitHubTests\GitHubTests.csproj", "{FDE2A035-AC75-44D4-AACE-7425F0D78D61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41E38861-C6F5-4768-8392-23DA80F88FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E38861-C6F5-4768-8392-23DA80F88FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E38861-C6F5-4768-8392-23DA80F88FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E38861-C6F5-4768-8392-23DA80F88FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE2A035-AC75-44D4-AACE-7425F0D78D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE2A035-AC75-44D4-AACE-7425F0D78D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE2A035-AC75-44D4-AACE-7425F0D78D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE2A035-AC75-44D4-AACE-7425F0D78D61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC45A8E3-2DBC-4FE6-A052-90312791D78F}
+	EndGlobalSection
+EndGlobal
