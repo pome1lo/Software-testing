@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubAutomation", "GitHubAutomation\GitHubAutomation.csproj", "{C2708C88-282C-4AAB-8205-E24897FF2A67}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubAutomation", "GitHubAutomation\GitHubAutomation.csproj", "{ACB61D6C-3FBB-40EE-835B-D4F575842981}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C2708C88-282C-4AAB-8205-E24897FF2A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C2708C88-282C-4AAB-8205-E24897FF2A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C2708C88-282C-4AAB-8205-E24897FF2A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C2708C88-282C-4AAB-8205-E24897FF2A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB61D6C-3FBB-40EE-835B-D4F575842981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB61D6C-3FBB-40EE-835B-D4F575842981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB61D6C-3FBB-40EE-835B-D4F575842981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB61D6C-3FBB-40EE-835B-D4F575842981}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A84E85-0E85-4F82-9949-933234E5F118}
 	EndGlobalSection
 EndGlobal
